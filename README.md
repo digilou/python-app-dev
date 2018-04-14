@@ -7,3 +7,4 @@ Bookmarked resources to refer back to when creating a Python application.
 - [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
 - [How to Make Python 3 my default version on MacOSX](https://stackoverflow.com/questions/34528107/how-do-i-make-python-3-5-my-default-version-on-macos)
 - [Getting Started on Heroku with Python](https://devcenter.heroku.com/articles/getting-started-with-python#introduction)
+- [Pipenv Basics](https://docs.pipenv.org/basics/)
