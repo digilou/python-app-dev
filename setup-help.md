@@ -10,8 +10,11 @@
 ## install dependencies from existing project
 `pip install -r requirements.txt`
 
+This creates a Pipfile of dependencies.
+
 ## pipenv
 Open virtual environment for project
 `pipenv shell`
+
 Shut down virtual environment space
 `exit`
